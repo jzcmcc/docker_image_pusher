@@ -8,5 +8,5 @@
 #homeassistant
 homeassistant/home-assistant:latest
 
-#jellyfin
-linuxserver/jellyfin:latest
+#portainer中文版
+6053537/portainer-ce
