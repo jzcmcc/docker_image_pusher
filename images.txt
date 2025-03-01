@@ -6,10 +6,10 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #homeassistant
-homeassistant/home-assistant:latest
+#homeassistant/home-assistant:latest
 
 #portainer中文版
-6053537/portainer-ce
+#6053537/portainer-ce
 
-##portainer英文版
+#portainer英文版
 portianer/portainer-ce
